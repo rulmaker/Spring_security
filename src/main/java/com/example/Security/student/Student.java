@@ -1,4 +1,4 @@
-package com.example.Security;
+package com.example.Security.student;
 
 public class Student {
 
